@@ -1,16 +1,15 @@
 {
-    "Name": "Embodied Cognition as a Tool to Facilitate Academic Progress and Cognitive Effort in School-Age Children. ",
+    "Name": "B/D Motor Intervention for Learning",
     "ReferencesAndLinks": [
-        "https://osf.io/6hrkj/",
-        "https://github.com/m-topor/B-D_EEG_Repo"
+        "pending"
     ],
     "Authors": [
         "Marta K. Topor"
     ],
-    "License": "CC0",
-    "BIDSVersion": "1.2.0",
-    "Funding": [
-        "n/a"
-    ],
-    "DatasetDOI": "n/a"
+	  "License": "CC-by",
+	  "BIDSVersion": "1.2.0",
+	  "Funding": [
+		  	"n/a"
+	  ],
+	  "DatasetDOI": "n/a"
 }
