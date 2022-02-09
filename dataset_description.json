@@ -1,15 +1,15 @@
 {
-    "Name": "B/D Motor Intervention for Learning",
+    "Name": "Embodied Cognition as a Tool to Facilitate Academic Progress and Cognitive Effort in School-Age Children. ",
     "ReferencesAndLinks": [
         "pending"
     ],
     "Authors": [
         "Marta K. Topor"
     ],
-	  "License": "CC0",
-	  "BIDSVersion": "1.2.0",
-	  "Funding": [
-		  	"n/a"
-	  ],
-	  "DatasetDOI": "n/a"
+    "License": "CC0",
+    "BIDSVersion": "1.2.0",
+    "Funding": [
+        "n/a"
+    ],
+    "DatasetDOI": "n/a"
 }
