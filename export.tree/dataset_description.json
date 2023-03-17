@@ -1,0 +1,16 @@
+{
+    "Name": "B/D Motor Intervention for Learning",
+    "ReferencesAndLinks": [
+        "https://github.com/m-topor/B-D_EEG_Repo/new/master?readme=1",
+        "https://github.com/m-topor/B-D_EEG_Repo"
+    ],
+    "Authors": [
+        "Marta K. Topor"
+    ],
+    "License": "CC0",
+    "BIDSVersion": "1.2.0",
+    "Funding": [
+        "n/a"
+    ],
+    "DatasetDOI": "doi:10.18112/openneuro.ds004017.v1.0.0"
+}
