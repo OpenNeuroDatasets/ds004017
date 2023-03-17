@@ -1,6 +1,8 @@
 {
     "Name": "Embodied Learning for Literacy EEG",
-    "ReferencesAndLinks": [],
+    "ReferencesAndLinks": [
+        "https://github.com/MovementAndNeuroscience/B-D_EEG_Child.git"
+    ],
     "Authors": [
         "Marta K. Topor",
         "Jacob Wienecke"
