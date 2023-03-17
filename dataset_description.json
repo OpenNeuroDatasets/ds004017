@@ -5,7 +5,8 @@
         "https://github.com/m-topor/B-D_EEG_Repo"
     ],
     "Authors": [
-        "Marta K. Topor"
+        "Marta K. Topor",
+        "Jacob Wienecke"
     ],
     "License": "CC0",
     "BIDSVersion": "1.2.0",
